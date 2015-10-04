@@ -27,6 +27,7 @@ public class GitCommitTest {
     // TODO 自動生成されたメソッド・スタブ
     System.out.println( "コミットテストです。" );
     System.out.println( "改修しました。" );
+    System.out.println( "2度目の改修をしました。" );
   }
 
 }
